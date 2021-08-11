@@ -8,8 +8,8 @@ The goal of the project is to generate a caption automatically given an image. T
 	
 ## Technologies
 Project is created with:
-* Pytorch v1.2
-* Python v3.4
+* Pytorch v1.7
+* Python v3.8
 
 ## Encoder-Decoder with Attention Architecture
 The project uses an Encoder-Decoder framework with Bahdanau attention Layer. 
