@@ -1,7 +1,7 @@
 ## Table of contents
-* [Problem Statement](#general-info)
+* [Problem Statement](#problem-statement)
 * [Technologies](#technologies)
-* [Encoder-Decoder with Attention Architecture](#setup)
+* [Encoder-Decoder with Attention Architecture](#encoder-decoder-with-attention-architecture)
 
 ## Goal of the Project
 The goal of the project is to generate a caption automatically given an image. The model uses [Flickr8k dataset]https://www.kaggle.com/aladdinpersson/flickr8kimagescaptions with captions which includes ~8000 images with their captions
