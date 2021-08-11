@@ -28,7 +28,7 @@ This concept can be expressed by the image below generated with our trained mode
   
 ![Screen Shot 2021-08-11 at 11 29 42 AM](https://user-images.githubusercontent.com/69861343/129103734-2323e6a1-be33-4b20-a31b-d40e763b71bd.png)
 
- ### Loss function used
+ ### Loss function 
   We used Cross Entropy loss while training the model to identify the word in Vocab dictionary 
 
 
