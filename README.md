@@ -11,7 +11,7 @@ Project is created with:
 * Pytorch v1.2
 * Python v3.4
 
-## Encoder-Decoder Framework
+## Encoder-Decoder with Attention Architecture
 The project uses an Encoder-Decoder framework with Bahdanau attention Layer. 
 
 ### Encoder Layer
