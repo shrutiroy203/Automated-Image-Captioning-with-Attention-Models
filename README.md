@@ -2,6 +2,7 @@
 * [Problem Statement](#problem-statement)
 * [Technologies](#technologies)
 * [Encoder-Decoder with Attention Architecture](#encoder-decoder-with-attention-architecture)
+* [Resources](#resources)
 
 ## Goal of the Project
 The goal of the project is to generate a caption automatically given an image. The model uses [Flickr8k dataset]https://www.kaggle.com/aladdinpersson/flickr8kimagescaptions with captions which includes ~8000 images with their captions
@@ -28,8 +29,13 @@ This concept can be expressed by the image below generated with our trained mode
   
 ![Screen Shot 2021-08-11 at 11 29 42 AM](https://user-images.githubusercontent.com/69861343/129103734-2323e6a1-be33-4b20-a31b-d40e763b71bd.png)
 
- ### Loss function 
+### Loss function 
   We used Cross Entropy loss while training the model to identify the word in Vocab dictionary 
+
+## Resources
+- [Article on Bahadanu Attention Layer]https://towardsdatascience.com/sequence-2-sequence-model-with-attention-mechanism-9e9ca2a613a
+- [Flickr8 dataset]https://www.kaggle.com/aladdinpersson/flickr8kimagescaptions
+
 
 
 
