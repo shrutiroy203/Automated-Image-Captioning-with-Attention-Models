@@ -43,7 +43,7 @@ The ability for a computer to be able to "see" and "interpret" an image is both 
 - [Article on Bahadanu Attention Layer](https://towardsdatascience.com/sequence-2-sequence-model-with-attention-mechanism-9e9ca2a613a)
 - [Flickr8 dataset](https://www.kaggle.com/aladdinpersson/flickr8kimagescaptions)
 - [Image captioning tutorial](https://www.youtube.com/watch?v=y2BaTt1fxJU&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=21)
-- [Use Cases[(https://evergreen.team/articles/automatic-image-captioning.html)
+- [Use Cases](https://evergreen.team/articles/automatic-image-captioning.html)
 
 
 
